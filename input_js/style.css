@@ -1,0 +1,15 @@
+.inp{
+    width:40%
+}
+
+li{
+    background-color:slategrey;
+    margin:12px ;
+    padding: 0.8rem  ;
+    border:0px none  ;
+    border-radius: 10px;
+}
+
+body{
+    background-color: cadetblue;
+}
